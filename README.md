@@ -30,9 +30,9 @@ Welcome to my LeetCode repository! This is where I document my coding journey, p
 
 <div align="center">
 
-<!-- Replace YOUR_LEETCODE_USERNAME with your actual username -->
+<!-- Replace ankitabunny with your actual username -->
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=heatmap" width="500" alt="LeetCode Statistics and Submission Heatmap" />
+<img src="https://leetcard.jacoblin.cool/ankitabunny?theme=dark&font=Fira+Code&ext=heatmap" width="500" alt="LeetCode Statistics and Submission Heatmap" />
 
 </div>
 
@@ -112,6 +112,6 @@ Prepare for technical interviews.
 
 “First solve the problem, then write the code.” 🚀
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ankitabunny&style=flat-square&color=blue" alt="Profile Views" />
 
 </div>
